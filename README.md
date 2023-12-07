@@ -26,5 +26,9 @@ No new software may be needed
 ### Installation
 
 Insatall and run as Administritor
+If you want it to auto launch on boot,
 
+1.Press Windows+r and type shell:startup.
+2.Put the bat file there.
+3.Done
 
