@@ -1,4 +1,4 @@
-# Project Title
+# WindowsFamilyHack
 
 This uses a script that will eliminate the winodows family demon, so it can no longer block usage
 
@@ -26,16 +26,5 @@ No new software may be needed
 ### Installation
 
 Insatall and run as Administritor
-## Usage
 
-## Contributing
-
-
-## License
-
-State the license under which your project is distributed. Choose an appropriate open-source license.
-
-## Acknowledgements
-
-If your project uses third-party libraries, tools, or resources, give credit to the authors or projects you've incorporated.
 
